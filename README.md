@@ -16,7 +16,3 @@ This project is created to practice Git commands and version control.
 ## Author
 Student Project (Git Practice)	
 khan
-My name is Khan
-<<<<<<< HEAD
-
-=======
